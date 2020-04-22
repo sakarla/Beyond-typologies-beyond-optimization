@@ -9,6 +9,6 @@ https://drive.google.com/open?id=1Fv50BOHORgeRlHMqYf1ev5qO7wFDCfWUafLxEtddHz8
 
 Then download the files in this repository and save them all in one folder.
 
-Start with the notebook call Part1_Part 1_QuantitativeEvaluation_HOS_SSOM.nb and continue with Part2_QuilitativeSelection.nb the last file is Part3_RegenerationClassifier.nb
+Start with the notebook call Part 1_QuantitativeEvaluation_HOS_SOM.nb and continue with Part2_QuilitativeSelection.nb the last file is Part3_RegenerationClassifier.nb
 
 The instructions of use are included inside each notebook.
