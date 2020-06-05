@@ -17,7 +17,7 @@ note = {Release 0.1},
 url = { https://github.com/sakarla/Beyond-typologies-beyond-optimization },
 }
 
-Publications related to the project include:
+# Publications related to the project include:
 
 Karla Saldana Ochoa, Ohlbrock,Patrick Ole Ohlbrock, Pierluigi D′Acunto, Vahid Moosavi: Beyond typologies, beyond optimization, International Journal of Architectural Computing (under review), 2020
 
