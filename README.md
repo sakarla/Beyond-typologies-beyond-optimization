@@ -10,11 +10,17 @@ The repository makes use of built-in functions within the software Wolfram Mathe
 If you use this repository, please refer to the official GitHub repository: 
 
 @Misc{Beyond-typologies-beyond-optimization2020,
+
 author = {Saldana Ochoa, Karla and Ohlbrock, Patrick Ole and D'Acunto, Pierluigi and Moosavi, Vahid},
+
 title = {{Beyond typologies beyond optimization}},
+
 year = {2020},
+
 note = {Release 0.1},
+
 url = { https://github.com/sakarla/Beyond-typologies-beyond-optimization },
+
 }
 
 # Publications related to the project include:
