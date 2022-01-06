@@ -40,7 +40,7 @@ Lukas Fuhrimann, Vahid Moosavi, Patrick Ole Ohlbrock, Pierluigi D′Acunto: Data
 
 To start the code please download the sample data from this link. 
 
-https://drive.google.com/open?id=1Fv50BOHORgeRlHMqYf1ev5qO7wFDCfWUafLxEtddHz8
+https://drive.google.com/file/d/1Dfu_-6bL57p0wbuPLLcBM-Xbt8POtIo1/view?usp=sharing
 
 Then download the files in this repository and save them all in one folder.
 
